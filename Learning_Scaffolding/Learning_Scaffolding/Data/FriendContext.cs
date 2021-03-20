@@ -15,7 +15,7 @@ namespace Learning_Scaffolding.Data
         // For more information refer to the documentation:
         // http://msdn.microsoft.com/en-us/data/jj591621.aspx
     
-        public FriendContext() : base("name=FriendContext")
+        public FriendContext() : base("name=FriendContext") //指定web.config中的資料庫連線名稱
         {
         }
 
