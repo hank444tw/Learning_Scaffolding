@@ -12,3 +12,7 @@
   2. Controller資料夾新增Scaffolding，建立CRUD樣本及EF設定
   3. Creat頁面新增資料
   4. LocalDB資料庫自動建立
+
+* 產出網站截圖
+<img src="https://github.com/hank444tw/Learning_Scaffolding/blob/master/index.JPG" stryle="float:right" /> 
+<img src="https://github.com/hank444tw/Learning_Scaffolding/blob/master/Creat.JPG" stryle="float:right" /> 
