@@ -14,5 +14,5 @@
   4. LocalDB資料庫自動建立
 
 * 產出網站截圖
-<img src="https://github.com/hank444tw/Learning_Scaffolding/blob/master/index.JPG" stryle="float:right" /> 
-<img src="https://github.com/hank444tw/Learning_Scaffolding/blob/master/Creat.JPG" stryle="float:right" /> 
+<img src="https://github.com/hank444tw/Learning_Scaffolding/blob/master/index.JPG" style="float:right" /> 
+<img src="https://github.com/hank444tw/Learning_Scaffolding/blob/master/Creat.JPG" style="float:right" /> 
